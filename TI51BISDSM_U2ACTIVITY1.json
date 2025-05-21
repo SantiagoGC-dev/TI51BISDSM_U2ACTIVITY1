@@ -1,0 +1,479 @@
+{
+  "Universidad": "Universidad Tecnológica de la Riviera Maya",
+  "OfertaEducativa": {
+    "TecnicoSuperiorUniversitario": [
+      {
+        "NombreCarrera": "Desarrollo de Software Multiplataforma",
+        "Duración": "2 años",
+        "Grupos": [
+          {
+            "Grupo": "DSM01",
+            "Cuatrimestre": 2,
+            "Asignaturas": [
+              "Matemáticas para computación",
+              "Introducción a la programación",
+              "Fundamentos de bases de datos",
+              "Inglés I",
+              "Desarrollo personal y profesional"
+            ]
+          },
+          {
+            "Grupo": "DSM02",
+            "Cuatrimestre": 3,
+            "Asignaturas": [
+              "Programación orientada a objetos",
+              "Modelado de bases de datos",
+              "Sistemas operativos",
+              "Inglés II",
+              "Habilidades de comunicación"
+            ]
+          },
+          {
+            "Grupo": "DSM03",
+            "Cuatrimestre": 4,
+            "Asignaturas": [
+              "Desarrollo web",
+              "Programación de dispositivos móviles",
+              "Administración de bases de datos",
+              "Inglés III",
+              "Métodos cuantitativos"
+            ]
+          },
+          {
+            "Grupo": "DSM04",
+            "Cuatrimestre": 5,
+            "Asignaturas": [
+              "Aplicaciones multiplataforma",
+              "Interacción humano-computadora",
+              "Desarrollo de videojuegos",
+              "Inglés IV",
+              "Formación sociocultural"
+            ]
+          },
+          {
+            "Grupo": "DSM05",
+            "Cuatrimestre": 6,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Entornos Virtuales y Negocios Digitales",
+        "Duración": "2 años",
+        "Grupos": [
+          {
+            "Grupo": "EVN01",
+            "Cuatrimestre": 2,
+            "Asignaturas": [
+              "Fundamentos de negocios digitales",
+              "Marketing digital",
+              "Introducción a las tecnologías web",
+              "Inglés I",
+              "Desarrollo personal y profesional"
+            ]
+          },
+          {
+            "Grupo": "EVN02",
+            "Cuatrimestre": 3,
+            "Asignaturas": [
+              "Publicidad en línea",
+              "Análisis de mercado digital",
+              "Desarrollo de contenidos multimedia",
+              "Inglés II",
+              "Habilidades de comunicación"
+            ]
+          },
+          {
+            "Grupo": "EVN03",
+            "Cuatrimestre": 4,
+            "Asignaturas": [
+              "Comercio electrónico",
+              "Redes sociales aplicadas",
+              "Optimización en motores de búsqueda",
+              "Inglés III",
+              "Métodos cuantitativos"
+            ]
+          },
+          {
+            "Grupo": "EVN04",
+            "Cuatrimestre": 5,
+            "Asignaturas": [
+              "Desarrollo de sitios web",
+              "Tienda en línea",
+              "Análisis de métricas digitales",
+              "Inglés IV",
+              "Formación sociocultural"
+            ]
+          },
+          {
+            "Grupo": "EVN05",
+            "Cuatrimestre": 6,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Mantenimiento Industrial",
+        "Duración": "2 años",
+        "Grupos": [
+          {
+            "Grupo": "MI01",
+            "Cuatrimestre": 2,
+            "Asignaturas": [
+              "Fundamentos de electricidad",
+              "Mecánica básica",
+              "Dibujo técnico",
+              "Inglés I",
+              "Desarrollo personal y profesional"
+            ]
+          },
+          {
+            "Grupo": "MI02",
+            "Cuatrimestre": 3,
+            "Asignaturas": [
+              "Sistemas electromecánicos",
+              "Neumática e hidráulica",
+              "Tecnología de materiales",
+              "Inglés II",
+              "Habilidades de comunicación"
+            ]
+          },
+          {
+            "Grupo": "MI03",
+            "Cuatrimestre": 4,
+            "Asignaturas": [
+              "Automatización industrial",
+              "Sistemas de control",
+              "Mantenimiento preventivo",
+              "Inglés III",
+              "Métodos cuantitativos"
+            ]
+          },
+          {
+            "Grupo": "MI04",
+            "Cuatrimestre": 5,
+            "Asignaturas": [
+              "Mantenimiento predictivo",
+              "Seguridad industrial",
+              "Gestión del mantenimiento",
+              "Inglés IV",
+              "Formación sociocultural"
+            ]
+          },
+          {
+            "Grupo": "MI05",
+            "Cuatrimestre": 6,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Gestión del Capital Humano",
+        "Duración": "2 años",
+        "Grupos": [
+          {
+            "Grupo": "GCH01",
+            "Cuatrimestre": 2,
+            "Asignaturas": [
+              "Fundamentos de gestión",
+              "Psicología organizacional",
+              "Relaciones laborales",
+              "Inglés I",
+              "Desarrollo personal y profesional"
+            ]
+          },
+          {
+            "Grupo": "GCH02",
+            "Cuatrimestre": 3,
+            "Asignaturas": [
+              "Reclutamiento y selección",
+              "Capacitación y desarrollo",
+              "Derecho laboral",
+              "Inglés II",
+              "Habilidades de comunicación"
+            ]
+          },
+          {
+            "Grupo": "GCH03",
+            "Cuatrimestre": 4,
+            "Asignaturas": [
+              "Evaluación del desempeño",
+              "Compensaciones y beneficios",
+              "Gestión del talento",
+              "Inglés III",
+              "Métodos cuantitativos"
+            ]
+          },
+          {
+            "Grupo": "GCH04",
+            "Cuatrimestre": 5,
+            "Asignaturas": [
+              "Planeación estratégica del talento",
+              "Cultura organizacional",
+              "Ética profesional",
+              "Inglés IV",
+              "Formación sociocultural"
+            ]
+          },
+          {
+            "Grupo": "GCH05",
+            "Cuatrimestre": 6,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Gestión y Desarrollo Turístico",
+        "Duración": "2 años",
+        "Grupos": [
+          {
+            "Grupo": "GDT01",
+            "Cuatrimestre": 2,
+            "Asignaturas": [
+              "Fundamentos del turismo",
+              "Geografía turística",
+              "Servicios de hospitalidad",
+              "Inglés I",
+              "Desarrollo personal y profesional"
+            ]
+          },
+          {
+            "Grupo": "GDT02",
+            "Cuatrimestre": 3,
+            "Asignaturas": [
+              "Promoción turística",
+              "Organización de eventos",
+              "Patrimonio cultural",
+              "Inglés II",
+              "Habilidades de comunicación"
+            ]
+          },
+          {
+            "Grupo": "GDT03",
+            "Cuatrimestre": 4,
+            "Asignaturas": [
+              "Gestión de agencias de viajes",
+              "Operación de tours",
+              "Turismo sostenible",
+              "Inglés III",
+              "Métodos cuantitativos"
+            ]
+          },
+          {
+            "Grupo": "GDT04",
+            "Cuatrimestre": 5,
+            "Asignaturas": [
+              "Desarrollo de productos turísticos",
+              "Administración de empresas turísticas",
+              "Gestión de destinos",
+              "Inglés IV",
+              "Formación sociocultural"
+            ]
+          },
+          {
+            "Grupo": "GDT05",
+            "Cuatrimestre": 6,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      }
+    ],
+    "IngenieríaLicenciatura": [
+      {
+        "NombreCarrera": "Ingeniería en Desarrollo y Gestión de Software",
+        "Duración": "1 año 8 meses después de TSU",
+        "Grupos": [
+          {
+            "Grupo": "IDS01",
+            "Cuatrimestre": 7,
+            "Asignaturas": [
+              "Inglés VII",
+              "Desarrollo de aplicaciones móviles avanzadas",
+              "Gestión de proyectos de software",
+              "Integración de tecnologías web",
+              "Auditoría de sistemas de información",
+              "Administración de servicios de tecnologías de información"
+            ]
+          },
+          {
+            "Grupo": "IDS02",
+            "Cuatrimestre": 8,
+            "Asignaturas": [
+              "Inteligencia artificial",
+              "Desarrollo de soluciones en la nube",
+              "Seguridad informática",
+              "Taller de integración de software",
+              "Formación de emprendedores",
+              "Inglés VIII"
+            ]
+          },
+          {
+            "Grupo": "IDS03",
+            "Cuatrimestre": 9,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Ingeniería en Entornos Virtuales y Negocios Digitales",
+        "Duración": "1 año 8 meses después de TSU",
+        "Grupos": [
+          {
+            "Grupo": "EVN01",
+            "Cuatrimestre": 7,
+            "Asignaturas": [
+              "Inglés VII",
+              "Innovación en negocios digitales",
+              "Desarrollo de aplicaciones interactivas",
+              "Gestión de comercio electrónico",
+              "Análisis de datos digitales",
+              "Planeación estratégica digital"
+            ]
+          },
+          {
+            "Grupo": "EVN02",
+            "Cuatrimestre": 8,
+            "Asignaturas": [
+              "Realidad extendida",
+              "Analítica web avanzada",
+              "Gestión de marketing digital",
+              "Desarrollo de plataformas inmersivas",
+              "Formación de emprendedores",
+              "Inglés VIII"
+            ]
+          },
+          {
+            "Grupo": "EVN03",
+            "Cuatrimestre": 9,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Ingeniería en Mantenimiento Industrial",
+        "Duración": "1 año 8 meses después de TSU",
+        "Grupos": [
+          {
+            "Grupo": "IMI01",
+            "Cuatrimestre": 7,
+            "Asignaturas": [
+              "Inglés VII",
+              "Gestión energética",
+              "Automatización avanzada",
+              "Ingeniería de mantenimiento",
+              "Administración de proyectos industriales",
+              "Diagnóstico y mejora de procesos"
+            ]
+          },
+          {
+            "Grupo": "IMI02",
+            "Cuatrimestre": 8,
+            "Asignaturas": [
+              "Simulación de sistemas industriales",
+              "Gestión de calidad",
+              "Diseño de experimentos",
+              "Formación de emprendedores",
+              "Inglés VIII",
+              "Sistemas hidráulicos y neumáticos"
+            ]
+          },
+          {
+            "Grupo": "IMI03",
+            "Cuatrimestre": 9,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Licenciatura en Gestión del Capital Humano",
+        "Duración": "1 año 8 meses después de TSU",
+        "Grupos": [
+          {
+            "Grupo": "GCH01",
+            "Cuatrimestre": 7,
+            "Asignaturas": [
+              "Inglés VII",
+              "Evaluación del desempeño",
+              "Planeación estratégica del talento",
+              "Gestión del conocimiento",
+              "Administración del cambio",
+              "Ética organizacional"
+            ]
+          },
+          {
+            "Grupo": "GCH02",
+            "Cuatrimestre": 8,
+            "Asignaturas": [
+              "Capacitación y desarrollo organizacional",
+              "Consultoría en recursos humanos",
+              "Gestión del clima laboral",
+              "Formación de emprendedores",
+              "Inglés VIII",
+              "Cultura organizacional"
+            ]
+          },
+          {
+            "Grupo": "GCH03",
+            "Cuatrimestre": 9,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCarrera": "Licenciatura en Gestión y Desarrollo Turístico",
+        "Duración": "1 año 8 meses después de TSU",
+        "Grupos": [
+          {
+            "Grupo": "GDT01",
+            "Cuatrimestre": 7,
+            "Asignaturas": [
+              "Inglés VII",
+              "Diseño de productos turísticos",
+              "Gestión de destinos inteligentes",
+              "Administración de empresas turísticas",
+              "Turismo sostenible",
+              "Innovación en turismo"
+            ]
+          },
+          {
+            "Grupo": "GDT02",
+            "Cuatrimestre": 8,
+            "Asignaturas": [
+              "Marketing de destinos",
+              "Gestión del patrimonio cultural",
+              "Turismo inclusivo",
+              "Formación de emprendedores",
+              "Inglés VIII",
+              "Gestión de eventos"
+            ]
+          },
+          {
+            "Grupo": "GDT03",
+            "Cuatrimestre": 9,
+            "Asignaturas": [
+              "Estadías profesionales"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
